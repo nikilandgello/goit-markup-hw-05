@@ -712,7 +712,7 @@ textarea {
 /* modal failed */
 
 .modal-failed {
-    margin-bottom: 16px;
+    margin-bottom: 8px;
 }
 
 .modal-label {
@@ -764,6 +764,10 @@ textarea {
 }
 
 /* textarea*/
+
+.modal-textarea-container {
+    margin-bottom: 16px;
+}
 
 .modal-textarea {
     width: 100%;
